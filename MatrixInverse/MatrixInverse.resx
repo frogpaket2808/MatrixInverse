@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="MatrixDimension.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt</value>
+  </data>
+  <data name="MatrixDimension.Location" type="System.Drawing.Point, System.Drawing">
+    <value>269, 33</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="MatrixDimension.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="MatrixDimension.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 32</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="MatrixDimension.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;MatrixDimension.Name" xml:space="preserve">
+    <value>MatrixDimension</value>
+  </data>
+  <data name="&gt;&gt;MatrixDimension.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MatrixDimension.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MatrixDimension.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="MatrixDimensionLable.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="MatrixDimensionLable.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt</value>
+  </data>
+  <data name="MatrixDimensionLable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>26, 35</value>
+  </data>
+  <data name="MatrixDimensionLable.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="MatrixDimensionLable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>225, 25</value>
+  </data>
+  <data name="MatrixDimensionLable.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="MatrixDimensionLable.Text" xml:space="preserve">
+    <value>Розмірність матриці:</value>
+  </data>
+  <data name="&gt;&gt;MatrixDimensionLable.Name" xml:space="preserve">
+    <value>MatrixDimensionLable</value>
+  </data>
+  <data name="&gt;&gt;MatrixDimensionLable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MatrixDimensionLable.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MatrixDimensionLable.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="MatrixPanel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="MatrixPanel.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="MatrixPanel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="MatrixPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>372, 90</value>
+  </data>
+  <data name="MatrixPanel.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="MatrixPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>551, 502</value>
+  </data>
+  <data name="MatrixPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;MatrixPanel.Name" xml:space="preserve">
+    <value>MatrixPanel</value>
+  </data>
+  <data name="&gt;&gt;MatrixPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MatrixPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MatrixPanel.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="MatrixPanel.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls /&gt;&lt;Columns Styles="AutoSize,0,Percent,100" /&gt;&lt;Rows Styles="Percent,98,09524,Percent,1,904762" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="ValuesLable.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="ValuesLable.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt, style=Italic</value>
+  </data>
+  <data name="ValuesLable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>367, 51</value>
+  </data>
+  <data name="ValuesLable.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="ValuesLable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>636, 25</value>
+  </data>
+  <data name="ValuesLable.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="ValuesLable.Text" xml:space="preserve">
+    <value>(значення між -100 та 100, не більше 10 знаків після коми)</value>
+  </data>
+  <data name="&gt;&gt;ValuesLable.Name" xml:space="preserve">
+    <value>ValuesLable</value>
+  </data>
+  <data name="&gt;&gt;ValuesLable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ValuesLable.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ValuesLable.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="BorderingButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="BorderingButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt, style=Italic</value>
+  </data>
+  <data name="BorderingButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 322</value>
+  </data>
+  <data name="BorderingButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="BorderingButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>228, 29</value>
+  </data>
+  <data name="BorderingButton.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="BorderingButton.Text" xml:space="preserve">
+    <value>Метод окаймлення</value>
+  </data>
+  <data name="&gt;&gt;BorderingButton.Name" xml:space="preserve">
+    <value>BorderingButton</value>
+  </data>
+  <data name="&gt;&gt;BorderingButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BorderingButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BorderingButton.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="JordanGaussButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="JordanGaussButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt, style=Italic</value>
+  </data>
+  <data name="JordanGaussButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 359</value>
+  </data>
+  <data name="JordanGaussButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="JordanGaussButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>261, 29</value>
+  </data>
+  <data name="JordanGaussButton.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="JordanGaussButton.Text" xml:space="preserve">
+    <value>Метод Жордана-Гауса</value>
+  </data>
+  <data name="&gt;&gt;JordanGaussButton.Name" xml:space="preserve">
+    <value>JordanGaussButton</value>
+  </data>
+  <data name="&gt;&gt;JordanGaussButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;JordanGaussButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;JordanGaussButton.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="CalculationButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt, style=Bold</value>
+  </data>
+  <data name="CalculationButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 396</value>
+  </data>
+  <data name="CalculationButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="CalculationButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 74</value>
+  </data>
+  <data name="CalculationButton.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="CalculationButton.Text" xml:space="preserve">
+    <value>Обрахувати!</value>
+  </data>
+  <data name="&gt;&gt;CalculationButton.Name" xml:space="preserve">
+    <value>CalculationButton</value>
+  </data>
+  <data name="&gt;&gt;CalculationButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CalculationButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;CalculationButton.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="ClearButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt</value>
+  </data>
+  <data name="ClearButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 181</value>
+  </data>
+  <data name="ClearButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>253, 62</value>
+  </data>
+  <data name="ClearButton.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="ClearButton.Text" xml:space="preserve">
+    <value>Очистити  матрицю</value>
+  </data>
+  <data name="&gt;&gt;ClearButton.Name" xml:space="preserve">
+    <value>ClearButton</value>
+  </data>
+  <data name="&gt;&gt;ClearButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ClearButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ClearButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="MethodLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="MethodLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt, style=Bold</value>
+  </data>
+  <data name="MethodLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>76, 293</value>
+  </data>
+  <data name="MethodLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="MethodLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>222, 25</value>
+  </data>
+  <data name="MethodLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="MethodLabel.Text" xml:space="preserve">
+    <value>Метод обернення:</value>
+  </data>
+  <data name="&gt;&gt;MethodLabel.Name" xml:space="preserve">
+    <value>MethodLabel</value>
+  </data>
+  <data name="&gt;&gt;MethodLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MethodLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MethodLabel.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="YourMatrixLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="YourMatrixLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt</value>
+  </data>
+  <data name="YourMatrixLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="YourMatrixLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>367, 26</value>
+  </data>
+  <data name="YourMatrixLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="YourMatrixLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 25</value>
+  </data>
+  <data name="YourMatrixLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="YourMatrixLabel.Text" xml:space="preserve">
+    <value>Ваша матриця:</value>
+  </data>
+  <data name="&gt;&gt;YourMatrixLabel.Name" xml:space="preserve">
+    <value>YourMatrixLabel</value>
+  </data>
+  <data name="&gt;&gt;YourMatrixLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;YourMatrixLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;YourMatrixLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="TextLable.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="TextLable.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 10.2pt</value>
+  </data>
+  <data name="TextLable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 591</value>
+  </data>
+  <data name="TextLable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>15, 20</value>
+  </data>
+  <data name="TextLable.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="TextLable.Text" xml:space="preserve">
+    <value>‎ </value>
+  </data>
+  <data name="&gt;&gt;TextLable.Name" xml:space="preserve">
+    <value>TextLable</value>
+  </data>
+  <data name="&gt;&gt;TextLable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextLable.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TextLable.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="richTextBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="richTextBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 96</value>
+  </data>
+  <data name="richTextBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;richTextBox1.Name" xml:space="preserve">
+    <value>richTextBox1</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="saveFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="SaveToFileButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt, style=Italic</value>
+  </data>
+  <data name="SaveToFileButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 496</value>
+  </data>
+  <data name="SaveToFileButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>253, 56</value>
+  </data>
+  <data name="SaveToFileButton.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="SaveToFileButton.Text" xml:space="preserve">
+    <value>Зберегти у файл</value>
+  </data>
+  <data name="&gt;&gt;SaveToFileButton.Name" xml:space="preserve">
+    <value>SaveToFileButton</value>
+  </data>
+  <data name="&gt;&gt;SaveToFileButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SaveToFileButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;SaveToFileButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="RandomMatrixButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt</value>
+  </data>
+  <data name="RandomMatrixButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 90</value>
+  </data>
+  <data name="RandomMatrixButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>253, 58</value>
+  </data>
+  <data name="RandomMatrixButton.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="RandomMatrixButton.Text" xml:space="preserve">
+    <value>Випадкова матриця</value>
+  </data>
+  <data name="&gt;&gt;RandomMatrixButton.Name" xml:space="preserve">
+    <value>RandomMatrixButton</value>
+  </data>
+  <data name="&gt;&gt;RandomMatrixButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RandomMatrixButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;RandomMatrixButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1003, 646</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Courier New, 7.8pt</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1070, 750</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>697, 550</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Обернення матриці</value>
+  </data>
+  <data name="&gt;&gt;saveFileDialog1.Name" xml:space="preserve">
+    <value>saveFileDialog1</value>
+  </data>
+  <data name="&gt;&gt;saveFileDialog1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SaveFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MatrixInverse</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

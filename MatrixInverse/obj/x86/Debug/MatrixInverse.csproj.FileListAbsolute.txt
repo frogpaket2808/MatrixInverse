@@ -1,0 +1,20 @@
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\MatrixInverse\MatrixInverse\bin\Debug\MatrixInverse.exe
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\MatrixInverse\MatrixInverse\bin\Debug\MatrixInverse.pdb
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\MatrixInverse\MatrixInverse\obj\x86\Debug\MatrixInverse.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\MatrixInverse\MatrixInverse\obj\x86\Debug\MatrixInverse.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\MatrixInverse\MatrixInverse\obj\x86\Debug\MatrixInverse.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\MatrixInverse\MatrixInverse\obj\x86\Debug\MatrixInverse.exe
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\MatrixInverse\MatrixInverse\obj\x86\Debug\MatrixInverse.pdb
+D:\навчання\курсова\MatrixInverse\obj\x86\Debug\MatrixInverse.exe
+D:\навчання\курсова\MatrixInverse\obj\x86\Debug\MatrixInverse.pdb
+D:\навчання\курсова\MatrixInverse\bin\Debug\MatrixInverse.exe.config
+D:\навчання\курсова\MatrixInverse\bin\Debug\MatrixInverse.exe
+D:\навчання\курсова\MatrixInverse\bin\Debug\MatrixInverse.pdb
+D:\навчання\курсова\MatrixInverse\obj\x86\Debug\MatrixInverse.csproj.AssemblyReference.cache
+D:\навчання\курсова\MatrixInverse\obj\x86\Debug\MatrixInverse.Properties.Resources.resources
+D:\навчання\курсова\MatrixInverse\obj\x86\Debug\MatrixInverse.csproj.GenerateResource.cache
+D:\навчання\курсова\MatrixInverse\obj\x86\Debug\MatrixInverse.csproj.CoreCompileInputs.cache
+D:\навчання\курсова\MatrixInverse\obj\x86\Debug\MatrixInverse.MatrixInverse.resources
+D:\навчання\курсова\MatrixInverse\bin\Debug\uk\MatrixInverse.resources.dll
+D:\навчання\курсова\MatrixInverse\obj\x86\Debug\MatrixInverse.MatrixInverse.uk.resources
+D:\навчання\курсова\MatrixInverse\obj\x86\Debug\uk\MatrixInverse.resources.dll

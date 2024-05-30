@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\matrixinverse\\matrixinverse\\inversemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|solutionrelative:matrixinverse\\inversemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\matrixinverse\\utilitymethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|solutionrelative:matrixinverse\\utilitymethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\matrixinverse\\uihelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|solutionrelative:matrixinverse\\uihelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\matrixinverse\\matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|solutionrelative:matrixinverse\\matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\matrixinverse\\matrixinverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|solutionrelative:matrixinverse\\matrixinverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\matrixinverse\\matrixinverse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|solutionrelative:matrixinverse\\matrixinverse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\matrixinverse\\matrixinverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|solutionrelative:matrixinverse\\matrixinverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\matrixinverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4657F6-0F8B-4183-84EF-06B5072B8D5D}|MatrixInverse\\MatrixInverse.csproj|solutionrelative:matrixinverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixInverse.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\MatrixInverse.cs",
+              "RelativeDocumentMoniker": "MatrixInverse\\MatrixInverse.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\MatrixInverse.cs",
+              "RelativeToolTip": "MatrixInverse\\MatrixInverse.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAkwFMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:33:09.963Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilityMethods.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\UtilityMethods.cs",
+              "RelativeDocumentMoniker": "MatrixInverse\\UtilityMethods.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\UtilityMethods.cs",
+              "RelativeToolTip": "MatrixInverse\\UtilityMethods.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:05:47.563Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InverseMethods.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\InverseMethods.cs",
+              "RelativeDocumentMoniker": "MatrixInverse\\InverseMethods.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\InverseMethods.cs",
+              "RelativeToolTip": "MatrixInverse\\InverseMethods.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwGcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:17:58.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatrixOperations.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\MatrixOperations.cs",
+              "RelativeDocumentMoniker": "MatrixInverse\\MatrixOperations.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\MatrixOperations.cs",
+              "RelativeToolTip": "MatrixInverse\\MatrixOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:48:00.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIHelpers.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\UIHelpers.cs",
+              "RelativeDocumentMoniker": "MatrixInverse\\UIHelpers.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\UIHelpers.cs",
+              "RelativeToolTip": "MatrixInverse\\UIHelpers.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:46:59.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatrixInverse.cs [Design]",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\MatrixInverse.cs",
+              "RelativeDocumentMoniker": "MatrixInverse\\MatrixInverse.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\MatrixInverse\\MatrixInverse.cs [Design]",
+              "RelativeToolTip": "..\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\MatrixInverse\\MatrixInverse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:32:49.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\Program.cs",
+              "RelativeDocumentMoniker": "MatrixInverse\\Program.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\Program.cs",
+              "RelativeToolTip": "MatrixInverse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:32:45.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatrixInverse.Designer.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\MatrixInverse.Designer.cs",
+              "RelativeDocumentMoniker": "MatrixInverse\\MatrixInverse.Designer.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\MatrixInverse\\MatrixInverse\\MatrixInverse.Designer.cs",
+              "RelativeToolTip": "MatrixInverse\\MatrixInverse.Designer.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAASwKgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:32:58.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
